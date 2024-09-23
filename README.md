@@ -14,7 +14,7 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|---------------|------|------|
-| 1  | **ELK 스택을 이용한 타이타닉 데이터 분석** | ELK 스택을 이용한 타이타닉 데이터 분석 | Elasticsearch, Logstash, Kibana | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-07-26 |
+| 1  | **ELK 스택을 이용한 타이타닉 데이터 분석** | ELK 스택을 이용한 타이타닉 데이터 분석 | Elasticsearch, Logstash, Kibana | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/B1ABOA/titanic_elk) | 2024-07-26 |
 | 1  | **HSRP 구축 프로젝트** | 고가용성을 위한 네트워크 구성 요소 이중화 | Cisco, GNS3 | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/Ungbbi/NSM) | 2024-09-13 |
 | 3  | **PowerScheduler System** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, PAM | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater) | 2024-09-20 |
 | 4  | **Deep Understanding of Average Load in Linux** | 리눅스 평균 부하(Load Average) 분석 | Linux | 🤼<br/>2명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater2) | 2024-09-23 |
