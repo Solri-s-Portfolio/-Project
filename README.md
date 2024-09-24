@@ -1,5 +1,5 @@
 # My Project
-*최종 업데이트: 2024년 9월 24일*
+*📅 최종 업데이트: 2024년 9월 24일*
 
 <br>
 
@@ -18,7 +18,7 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | 1  | **HSRP 구축 프로젝트** | 고가용성을 위한 네트워크 구성 요소 이중화 | Cisco, GNS3 | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/Ungbbi/NSM) | 2024-09-13 |
 | 3  | **PowerScheduler System** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, PAM | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater) | 2024-09-20 |
 | 4  | **Deep Understanding of Average Load in Linux** | 리눅스 평균 부하(Load Average) 분석 | Linux | 🤼<br/>2명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater2) | 2024-09-23 |
-| 5  | **Docker Image 최적화 핵심 전략** |  Docker Image 최적화 방법 분석 | Linux, Docker | 개인 | [GitHub 링크](https://github.com/soljjang777/DockerMaster1) | 2024-09-24 |
+| 5  | **Docker Image 최적화 핵심 전략** |  Docker Image 최적화 방법 분석 | Linux, Docker | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/DockerMaster1) | 2024-09-24 |
 
 
 <br>
