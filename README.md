@@ -19,6 +19,7 @@ This category would focus on networking, ELK Stack, and infrastructure managemen
 | 3  | **PowerScheduler System** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, PAM | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater) | 2024-09-20 |
 | 4  | **Deep Understanding of Average Load in Linux** | 리눅스 평균 부하(Load Average) 분석 | Linux | 🤼<br/>2명 | [GitHub 링크](https://github.com/soljjang777/LinuxMater2) | 2024-09-23 |
 | 5  | **Docker Image 최적화 핵심 전략** |  Docker Image 최적화 방법 분석 | Linux, Docker | 🥰<br/>1명 | [GitHub 링크](https://github.com/soljjang777/DockerMaster1) | 2024-09-24 |
+| 6  | **Trivy를 활용한 보안 테스트** |  Trivy를 활용하여 보안 취약점을 탐지하는 방법과 그 결과를 분석 | Linux,Trivy  | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/lotuxsoo/FISA3-Trivy-Analysis) | 2024-09-25 |
 
 
 <br>
