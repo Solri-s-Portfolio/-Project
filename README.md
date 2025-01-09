@@ -35,7 +35,7 @@ This category would cover areas related to coding and development frameworks lik
 | 1  | **UBIS동물병원** | 데이터베이스 연동 없이 Java를 사용하여 CRUD 구현 | Java 17 | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/UBIS-CE/PetCharger) | 2024-07-12 |
 | 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/B1ABOA/jpa_study) | 2024-08-02 |
 | 3  | **WEDUG: 덕후들을 위한 Ultimate 여행 가이드** | TV 속 영화와 드라마의 촬영지, 연예인들의 핫플레이스, 맛집, 명소 제공 어플리케이션 개발 | Java17, Spring Boot, JPA, Thymeleaf | 👨‍👨‍👧‍👧<br/>4명 | [GitHub 링크](https://github.com/B1ABOA/wedug) | 2024-08-16 |
-
+| 4  | **WooRibound: 5070 취업동반자 서비스** | 5070 중장년층 전용 채용 플랫폼 개발 | Java17, Spring Boot, JPA, Vue | 👨‍👨‍👧‍👧<br/>5명 | [GitHub 링크](https://github.com/WooRibound) | 2024-12-18 |
 ---
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
